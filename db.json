@@ -1,0 +1,424 @@
+{
+  "mobiles": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569",
+      "description": "iPhone 15 Pro Max forged in titanium with A17 Pro chip and 5x Telephoto camera.",
+      "releaseYear": "2023",
+      "warranty": "1 Year",
+      "rating": 4.9,
+      "price": 159900,
+      "processor": "A17 Pro",
+      "currency": "INR",
+      "famousFor": "Titanium Body & 5x Zoom",
+      "battery": "4422 mAh",
+      "features": [
+        "48MP Camera",
+        "Action Button",
+        "120Hz ProMotion",
+        "USB-C 3.0"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf",
+      "description": "Galaxy S24 Ultra with Galaxy AI features, S Pen, and 200MP camera.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.8,
+      "price": 129999,
+      "processor": "Snapdragon 8 Gen 3",
+      "currency": "INR",
+      "famousFor": "Galaxy AI & 100x Space Zoom",
+      "battery": "5000 mAh",
+      "features": [
+        "200MP Camera",
+        "Built-in S Pen",
+        "Titanium Frame",
+        "7 Years Updates"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "description": "OnePlus 12 with Snapdragon 8 Gen 3 processor, Hasselblad camera and 120Hz ProXDR display.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.7,
+      "price": 64999,
+      "processor": "Snapdragon 8 Gen 3",
+      "currency": "INR",
+      "famousFor": "Fast Performance & Hasselblad Camera",
+      "battery": "5400 mAh",
+      "features": [
+        "50MP Main Camera",
+        "120Hz AMOLED Display",
+        "100W SUPERVOOC Charging",
+        "Hasselblad Camera"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Google Pixel 9 Pro",
+      "brand": "Google",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "description": "Google Pixel 9 Pro featuring advanced AI photography and Google's Tensor processor.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.6,
+      "price": 109999,
+      "processor": "Google Tensor G4",
+      "currency": "INR",
+      "famousFor": "AI Features & Camera",
+      "battery": "4700 mAh",
+      "features": [
+        "50MP Triple Camera",
+        "AI Photography",
+        "120Hz LTPO OLED",
+        "7 Years Updates"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "iPhone 16 Pro Max",
+      "brand": "Apple",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab",
+      "description": "iPhone 16 Pro Max with A18 Pro chip, titanium design and advanced camera system.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.9,
+      "price": 144900,
+      "processor": "A18 Pro",
+      "currency": "INR",
+      "famousFor": "A18 Pro & Camera Control",
+      "battery": "4685 mAh",
+      "features": [
+        "48MP Fusion Camera",
+        "Camera Control",
+        "120Hz ProMotion",
+        "USB-C"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy Z Fold 6",
+      "brand": "Samsung",
+      "category": "Foldable",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf",
+      "description": "Galaxy Z Fold 6 combines smartphone portability with a large foldable display and Galaxy AI.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.6,
+      "price": 164999,
+      "processor": "Snapdragon 8 Gen 3",
+      "currency": "INR",
+      "famousFor": "Foldable Display & Galaxy AI",
+      "battery": "4400 mAh",
+      "features": [
+        "7.6-inch Foldable Display",
+        "Galaxy AI",
+        "S Pen Support",
+        "50MP Camera"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Nothing Phone 2",
+      "brand": "Nothing",
+      "category": "Premium",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "description": "Nothing Phone 2 with unique Glyph interface, clean software and premium transparent design.",
+      "releaseYear": "2023",
+      "warranty": "1 Year",
+      "rating": 4.4,
+      "price": 44999,
+      "processor": "Snapdragon 8+ Gen 1",
+      "currency": "INR",
+      "famousFor": "Glyph Interface & Design",
+      "battery": "4700 mAh",
+      "features": [
+        "50MP Dual Camera",
+        "120Hz OLED Display",
+        "Glyph Interface",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Xiaomi 14 Ultra",
+      "brand": "Xiaomi",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "description": "Xiaomi 14 Ultra delivers flagship performance with Leica professional camera technology.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.7,
+      "price": 99999,
+      "processor": "Snapdragon 8 Gen 3",
+      "currency": "INR",
+      "famousFor": "Leica Professional Camera",
+      "battery": "5000 mAh",
+      "features": [
+        "Leica Quad Camera",
+        "1-inch Main Sensor",
+        "120Hz AMOLED",
+        "90W HyperCharge"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Vivo X100 Pro",
+      "brand": "Vivo",
+      "category": "Camera Phone",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "description": "Vivo X100 Pro with ZEISS camera system, powerful MediaTek processor and fast charging.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.6,
+      "price": 89999,
+      "processor": "MediaTek Dimensity 9300",
+      "currency": "INR",
+      "famousFor": "ZEISS Camera & Portraits",
+      "battery": "5400 mAh",
+      "features": [
+        "50MP ZEISS Camera",
+        "120Hz AMOLED Display",
+        "100W Fast Charging",
+        "IP68 Water Resistance"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "OPPO Find X8 Pro",
+      "brand": "OPPO",
+      "category": "Flagship",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "description": "OPPO Find X8 Pro combines premium design, Hasselblad cameras and powerful performance.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.6,
+      "price": 99999,
+      "processor": "MediaTek Dimensity 9400",
+      "currency": "INR",
+      "famousFor": "Hasselblad Camera System",
+      "battery": "5910 mAh",
+      "features": [
+        "50MP Quad Camera",
+        "120Hz AMOLED",
+        "80W SUPERVOOC",
+        "IP68 Water Resistance"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Motorola Edge 50 Pro",
+      "brand": "Motorola",
+      "category": "Premium",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "description": "Motorola Edge 50 Pro with pOLED display, fast charging and premium vegan leather design.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.3,
+      "price": 34999,
+      "processor": "Snapdragon 7 Gen 3",
+      "currency": "INR",
+      "famousFor": "Display & Fast Charging",
+      "battery": "4500 mAh",
+      "features": [
+        "50MP Camera",
+        "144Hz pOLED Display",
+        "125W TurboPower",
+        "IP68 Protection"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Realme GT 6",
+      "brand": "Realme",
+      "category": "Performance",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "description": "Realme GT 6 delivers flagship-level performance with a high brightness LTPO AMOLED display.",
+      "releaseYear": "2024",
+      "warranty": "1 Year",
+      "rating": 4.4,
+      "price": 39999,
+      "processor": "Snapdragon 8s Gen 3",
+      "currency": "INR",
+      "famousFor": "Performance & Display",
+      "battery": "5500 mAh",
+      "features": [
+        "50MP Sony Camera",
+        "120Hz LTPO AMOLED",
+        "120W SUPERVOOC",
+        "5500 mAh Battery"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "name": "sanjay",
+      "email": "sanjayrocky22@gmail.com",
+      "password": "sanjay22",
+      "id": "cY_qc4ldiuU"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "cY_qc4ldiuU",
+      "userName": "sanjay",
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 15 Pro",
+          "brand": "Apple",
+          "category": "Flagship",
+          "budget": "High",
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569",
+          "description": "iPhone 15 Pro forged in titanium and featuring the groundbreaking A17 Pro chip.",
+          "releaseYear": "2023",
+          "warranty": "1 Year",
+          "rating": 4.8,
+          "price": 134900,
+          "processor": "A17 Pro",
+          "currency": "INR",
+          "famousFor": "Titanium design and Camera",
+          "battery": "3274 mAh",
+          "features": [
+            "48MP Main Camera",
+            "120Hz Promotion Display",
+            "Action Button",
+            "USB-C Port"
+          ],
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 134900,
+      "orderDate": "6 Oct 2026, 11:26 am",
+      "status": "Processing",
+      "id": "HPJ7wGtgTMg"
+    },
+    {
+      "userId": "cY_qc4ldiuU",
+      "userName": "sanjay",
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 15 Pro Max",
+          "brand": "Apple",
+          "category": "Flagship",
+          "budget": "High",
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569",
+          "description": "iPhone 15 Pro Max forged in titanium with A17 Pro chip and 5x Telephoto camera.",
+          "releaseYear": "2023",
+          "warranty": "1 Year",
+          "rating": 4.9,
+          "price": 159900,
+          "processor": "A17 Pro",
+          "currency": "INR",
+          "famousFor": "Titanium Body & 5x Zoom",
+          "battery": "4422 mAh",
+          "features": [
+            "48MP Camera",
+            "Action Button",
+            "120Hz ProMotion",
+            "USB-C 3.0"
+          ],
+          "quantity": 1
+        }
+      ],
+      "subtotal": 159900,
+      "discountApplied": 15990,
+      "couponCode": "FESTIVE10",
+      "totalAmount": 143910,
+      "orderDate": "6 Oct 2026, 11:39 am",
+      "status": "Processing",
+      "id": "-MF1IPGiCB4"
+    },
+    {
+      "userId": "cY_qc4ldiuU",
+      "userName": "sanjay",
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 15 Pro Max",
+          "brand": "Apple",
+          "category": "Flagship",
+          "budget": "High",
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569",
+          "description": "iPhone 15 Pro Max forged in titanium with A17 Pro chip and 5x Telephoto camera.",
+          "releaseYear": "2023",
+          "warranty": "1 Year",
+          "rating": 4.9,
+          "price": 159900,
+          "processor": "A17 Pro",
+          "currency": "INR",
+          "famousFor": "Titanium Body & 5x Zoom",
+          "battery": "4422 mAh",
+          "features": [
+            "48MP Camera",
+            "Action Button",
+            "120Hz ProMotion",
+            "USB-C 3.0"
+          ],
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Galaxy S24 Ultra",
+          "brand": "Samsung",
+          "category": "Flagship",
+          "budget": "High",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf",
+          "description": "Galaxy S24 Ultra with Galaxy AI features, S Pen, and 200MP camera.",
+          "releaseYear": "2024",
+          "warranty": "1 Year",
+          "rating": 4.8,
+          "price": 129999,
+          "processor": "Snapdragon 8 Gen 3",
+          "currency": "INR",
+          "famousFor": "Galaxy AI & 100x Space Zoom",
+          "battery": "5000 mAh",
+          "features": [
+            "200MP Camera",
+            "Built-in S Pen",
+            "Titanium Frame",
+            "7 Years Updates"
+          ],
+          "quantity": 1
+        }
+      ],
+      "subtotal": 289899,
+      "discountApplied": 28990,
+      "couponCode": "FESTIVE10",
+      "totalAmount": 260909,
+      "orderDate": "6 Oct 2026, 03:58 pm",
+      "status": "Processing",
+      "id": "2BJz2UTAUqM"
+    }
+  ],
+  "reviews": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
